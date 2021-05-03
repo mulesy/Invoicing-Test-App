@@ -1,6 +1,6 @@
 # Invoicing-Test-App
 
-Hello there. 
+Hello there......
 Your mission, should you choose to accept it, is to complete a simple Invoice application.
 The existing application allows a user to create Invoices and then add line items to the invoice.
 
